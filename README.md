@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey as a software engin
 
 ## Features
 
-- Modern Design: Clean, professional layout with smooth animations
+- Modern Design: Clean, professional layout with smooth animations 
 - Responsive: Fully responsive design that works on all devices
 - Dark/Light Mode: Toggle between dark and light themes
 - Interactive Elements: Smooth scrolling, hover effects, and animations
